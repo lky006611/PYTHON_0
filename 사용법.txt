@@ -1,0 +1,10 @@
+git init -> 컴셋팅
+
+git add . (파일을 추가)
+
+git commit -m "테스트"
+
+git push
+
+
+
